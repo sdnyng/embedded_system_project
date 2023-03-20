@@ -1,3 +1,7 @@
+/*
+Author: Siqi Yang
+Date: 12/10/2022
+*/
 #include <IRremote.h>
 #include <Servo.h>
 //IR contro
